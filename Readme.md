@@ -54,7 +54,7 @@
 
 ## **Why SprintAPI Framework?**
 **Ultra-fast startup** (no reflection, no runtime scanning).  
-**Zero configuration** (no `.properties` or `.yml` files).  
+**Less configuration** (Common featues are built in).  
 **Annotation-driven** (easy to use & intuitive).  
 **GraalVM-friendly** (perfect for microservices & serverless).  
 **Flexible middleware** (automatic and configurable).
