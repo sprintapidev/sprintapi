@@ -61,7 +61,7 @@
 
 Would you like to try it?
 
-**[SprintAPI demo project demonstartion video](https://youtu.be/ak-0mXnif40?si=S7gYm65kfmv8UXdJ)**
+**[SprintAPI demo project demonstration video](https://youtu.be/ak-0mXnif40?si=S7gYm65kfmv8UXdJ)**
 
 **[SprintAPI native image creation demo video](https://youtu.be/_lHsi88XU4c?si=AI9VaH6QY-oGdh_m)**
 
