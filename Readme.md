@@ -1,3 +1,5 @@
+#### Note!!! This is just demo version, so you may see lots of code smells and not clean codes. My aim at first was getting something working!
+
 ## SprintAPI
 
 #### SprintAPI - Open Source High Performance Java Rest API Framework with native image support
